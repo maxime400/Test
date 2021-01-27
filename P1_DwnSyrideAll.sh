@@ -77,3 +77,5 @@ else
 	echo "We have an issue with the last file downloaded in the file ${ErrorFile}"
 		chmod 777 ${ErrorFile}
 fi
+
+# add comment here, git add on master and commit -m "my first commit with comment 1234"
