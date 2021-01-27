@@ -80,5 +80,7 @@ fi
 
 # add comment here, git add on master and commit -m "my first commit with comment 1234"
 
-# ajout conneruie dans branche master"
-# ajout seconde conneruie dans branche master"
+################ Lot of modification programmed in branch 1   ##########
+
+
+
