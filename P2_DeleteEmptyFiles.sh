@@ -10,7 +10,8 @@ Empty=$(find $SyrideRaw -type f -empty | wc -l)
 
 echo " There is $Empty files empty on a total of $Total.. remove all empty in 5 sec"
 
-sleep 5
+#sleep 5
+#remove sleep
 
 find $SyrideRaw -type f -empty -delete
 
@@ -21,4 +22,4 @@ echo " There is $Empty files empty on a total of $Total.. remove all empty in 5 
 
 ## last modif ok from master ##
 
-
+#### Add new code on branch modif_P2, to be tested later ##########
