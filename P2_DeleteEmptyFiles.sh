@@ -19,6 +19,6 @@ Empty=$(find $SyrideRaw -type f -empty | wc -l)
 
 echo " There is $Empty files empty on a total of $Total.. remove all empty in 5 sec"
 
-
+## last modif ok from master ##
 
 
