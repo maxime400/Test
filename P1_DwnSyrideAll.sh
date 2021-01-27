@@ -78,12 +78,11 @@ else
 		chmod 777 ${ErrorFile}
 fi
 
-
 ## last modif ok from master ##
 
 
 
-################ Lot of modification programmed in branch 1   ##########
+
 
 
 
